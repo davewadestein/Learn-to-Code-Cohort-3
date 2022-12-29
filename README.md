@@ -1,4 +1,4 @@
-# Learn-to-Code
+# Learn-to-Code Cohort 1
 * 3-6 pm Pacific / 6-9 pm Eastern
 * Doodle poll for additional scheduling:
   * https://doodle.com/meeting/organize/id/dJy327vb
