@@ -2,6 +2,11 @@
 * 3-6 pm Pacific / 6-9 pm Eastern
 * Doodle poll for additional scheduling:
   * https://doodle.com/meeting/organize/id/dJy327vb
+* How to download the materials:
+  * go to https://github.com/davewadestein/Learn-to-Code-Cohort-1
+  * click GREEN "Code" button
+  * choose "Download Zip" and the materials will end up in your Downloads folder
+  * you will need to double click (Mac) or right-click (Windows) to UNzip the materials
 
 ## If you want to try to install something locally (you don't have to):
 * Anaconda–a free distribution of Python (www.anaconda.com)
