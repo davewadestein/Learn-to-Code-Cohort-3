@@ -4,6 +4,13 @@
   * https://doodle.com/meeting/organize/id/dJy327vb
 * To follow along in the cloud (no download necessary)
   * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-1/HEAD
+  * Or use Google Colaboratory https://colab.research.google.com/
+     * You will need to be logged in to your Google/GMail account
+     * Go to File menu and select "Open Notebook"
+     * Choose "GitHub" in the popup window that appears
+     * Enter __davewadestein/Learn-to-Code-Cohort-1__
+     * Select __Learn to Code.ipynb__
+     * Images won't show up in the notebook, but there aren't that many
 * How to download the materials:
   * go to https://github.com/davewadestein/Learn-to-Code-Cohort-1
   * click GREEN "Code" button
