@@ -1,5 +1,8 @@
 # Learn-to-Code Cohort 1
 * 3-6 pm Pacific / 6-9 pm Eastern
+
+* [Summary of Session 1](https://github.com/davewadestein/Learn-to-Code-Cohort-1/Session1.md)
+
 * Doodle poll for additional scheduling:
   * https://doodle.com/meeting/organize/id/dJy327vb
 * To follow along in the cloud (no download necessary)
