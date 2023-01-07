@@ -1,4 +1,4 @@
-# Summary of Session 1: A lot of terminology
+# Summary of Session 1: Jargon!
  * __bit__ = "binary digit" = a 0 or 1
    * the smallest unit of data that a computer can process/store
  * __byte__ = 8 bits = 1 character (on a US keyboard)
