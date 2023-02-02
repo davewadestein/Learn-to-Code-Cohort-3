@@ -1,4 +1,5 @@
 # Learn-to-Code Cohort 1
+
 * 3-6 pm Pacific / 6-9 pm Eastern
 
 * [Summary of Session 1](https://github.com/davewadestein/Learn-to-Code-Cohort-1/blob/main/Session1.md)
@@ -27,3 +28,4 @@
   * choose "Download Zip" and the materials will end up in your Downloads folder
   * you will need to double click (Mac) or right-click (Windows) to UNzip the materials
   
+* February 1: stopped at Operators and Operands
