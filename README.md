@@ -1,11 +1,7 @@
-# Learn-to-Code Cohort 1
+# Learn-to-Code Cohort 3
 
-* 3-6 pm Pacific / 6-9 pm Eastern
+* 7-9 am Pacific / 10-Noon Eastern
 
-* [Summary of Session 1](https://github.com/davewadestein/Learn-to-Code-Cohort-1/blob/main/Session1.md)
-
-* Doodle poll for additional scheduling:
-  * https://doodle.com/meeting/organize/id/dJy327vb
 * To follow along in the cloud (no download necessary)
   * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-1/HEAD
   * Or use Google Colaboratory https://colab.research.google.com/
